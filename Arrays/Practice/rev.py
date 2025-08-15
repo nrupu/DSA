@@ -5,3 +5,4 @@ while i<r:
     i+=1
     r-=1
 print(arr)
+#or we can use arr[::-1] or .reverse() fun
